@@ -756,7 +756,7 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/p
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTw_b4v4e5Na9i93g0kQsQz_fCW8j-f16kIA&s" group-title="MOVIES",NET TV TORONTO
 https://eu1.streams.gr:8081/netvtoronto/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="MOVIES",BBC America
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBK9mr-6hN0R8DePSNkoEyVLckR8aofwylMw&s" group-title="MOVIES",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlOIwQQlCaHEvIohdfmNGLdx-lcABYObt7A&s" group-title="MOVIES",CLASSIC CINEMA
@@ -780,7 +780,7 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="MOVIES",HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="MOVIES",FX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgj4XIaED6TGNV2FATAf7UHFEfaigSZwXpMA&s" group-title="MOVIES",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVEkvEVu646GPsC9TzndzsM6cwJPoe5MV5tA&s" group-title="MOVIES",FXX
