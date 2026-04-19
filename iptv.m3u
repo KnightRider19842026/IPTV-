@@ -345,7 +345,7 @@ https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews_Sign/default/ERTNews_Sign-aud
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews_Sign/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="GREEK NEWS CHANNELS",EURONEWS GREEK|Ροή 1
-https://www.youtube.com/embed/v=uWIhV9gQClg|youtubefulldig
+https://www.youtube.com/embed/v=uWIhV9gQClg
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="GREEK NEWS CHANNELS",EURONEWS GREEK|Ροή 2
 http://gr.euronews.com/live|webview zoom=400 scroll=400,0
@@ -501,7 +501,7 @@ https://strm.mixlive.eu/mixfm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.kiss929.gr/sites/all/themes/kiss/images/ogimage.png" group-title="MUSIC CHANNELS",KISSFM (GR)
 https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFbyiCzPhf2VYLOWG7aNedxT5t9dNIIfApg&s" group-title="MUSIC CHANNELS",KLIKFM (CY)|Ροή 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFbyiCzPhf2VYLOWG7aNedxT5t9dNIIfApg&s" group-title="MUSIC CHANNELS",KLIKFM (CY)
 https://cdn.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/h3uIBQSMgHa2yEuQEjz5-yKDQsRNAaB9nmDlyxuBEHUSI3gZ95kFLsXXMHyKIUvImJFPadrguw=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC CHANNELS",DANCE TV
@@ -544,9 +544,6 @@ http://84.17.50.102/disneyjunior/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROL97mgZczyhYSwxX6rwRSDsBhPLK7gOlCEA&s" group-title="KIDS",Disney Junior|Ροή 2
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="KIDS",Nick Jr
-http://mytvstream.net:8080/live/30550113/30550113/46710.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
@@ -613,10 +610,10 @@ https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="SPORTS CHANNELS",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png" group-title="SPORTS CHANNELS",Sportsman Channel
+#EXTINF:-1 tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2019/01/sportsman-canada-logo-01.png" group-title="SPORTS CHANNELS",Sportsman Channel
 http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" group-title="SPORTS CHANNELS",SportsNet New York
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXDPmitkpE5ENmw1_raJcbMDRsMS8kGiIVA&s" group-title="SPORTS CHANNELS",SportsNet New York
 http://212.102.60.231/SNY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttMEZFEzT6WqgT_E3kohdWUft0m_OE3iZOg&s" group-title="SPORTS CHANNELS",ESPNU
@@ -710,13 +707,13 @@ http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="DOCUMENTARY",Animal Planet|Ροή 2
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="DOCUMENTARY",Discovery Channel
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="DOCUMENTARY",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="DOCUMENTARY",Vice TV
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/10/vice_logo_0.jpg?w=640&h=360&crop=1" group-title="DOCUMENTARY",Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="DOCUMENTARY",A&E TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s" group-title="DOCUMENTARY",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1O2jDVeTiiiD-33SGoKt-gbhL-3cWqkW9g&s" group-title="DOCUMENTARY",National Geographic Wild East
@@ -725,7 +722,7 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugolVDEFSN_ODak0vF1L8A5_KjbhiC9UdQg&s" group-title="DOCUMENTARY",National Geographic East
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="DOCUMENTARY",Crime Investigation
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7C_5mtPeCXDcOhO79Zc33jFnWeStFh9q1Q&s" group-title="DOCUMENTARY",Crime Investigation
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -783,19 +780,19 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="MOVIES",HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="MOVIES",FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="MOVIES",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="MOVIES",FXX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVEkvEVu646GPsC9TzndzsM6cwJPoe5MV5tA&s" group-title="MOVIES",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="MOVIES",VH1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03I7etYdMJpEB8GnAyk4g3NAd7h5oLufR0w&s" group-title="MOVIES",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="MOVIES",Starz Encore Classic
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSUV3rc2YFlTubw2-sNpxeoC2kwMRvqWSVA&s" group-title="MOVIES",Starz Encore Classic
 http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="MOVIES",Syfy
@@ -803,6 +800,9 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="MOVIES",We Tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcaZcOuQ2RUzccqDiDcis9EMV5jtNRY0pCVQ&s" group-title="MOVIES",TNT Series
+http://181.78.4.250:8098/play/a06l/index.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1020,41 +1020,42 @@ http://162.19.227.109/714/manifest.m3u8?token=SB31175290
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPekxXGhkPjO4tR8QJp-gJjAnykbDvwy8pog&s" group-title="ADULT CHANNELS - SERVER (MIX)",RED LIPS TV
 http://pl.online24.pm/play/103/623939143BE8A4B/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtCDezgqZggYVOJIzLhQyRw5YTDvoSwjxXQ&s" group-title="ADULT CHANNELS - SERVER (MIX)",PLAYBOY TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 1 
-http://fortv.cc:8080/0n8u9R/169324/160014
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 1
+http://u.vipl.one/high/hc6s5fzmde/1692.m3u8
 
 #EXTINF:-1 group-title="XXX CHANNELS",XXX 2
-http://fortv.cc:8080/0n8u9R/169324/159982
-
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 3
 https://adult-tv-channels.com/evil-angel-tv-online/|webdeskfulldig
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 4
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 3
 https://adult-tv-channels.com/cento-x-cento-tv-online/|webdeskfulldig
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 5 (HotWife)
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 4 (HotWife)
 http://tvmate.icu:8080/U1fd47/286987/215516
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 6
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 5
 http://tvmate.icu:8080/U1fd47/286987/215519
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 7
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 6
 http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104821.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 8
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 7
 http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104822.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 9
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 8
 http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104824.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 10
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 9
 http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104825.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 11
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 10
 http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104827.m3u8
 
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 11
+http://u.vipl.one/high/hc6s5fzmde/1691.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
