@@ -521,8 +521,11 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS",DUCK TV HD
 https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png" group-title="KIDS",Baby TV
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png" group-title="KIDS",Baby TV|Ροή 1
 http://41.205.93.154/BABY-TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png" group-title="KIDS",Baby TV|Ροή 2
+http://41.223.30.230/BABYTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="KIDS",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
@@ -666,6 +669,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN NEWS|Ροή 2
 http://89.105.221.127/CNN/index.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN NEWS|Ροή 3
+http://41.223.30.230/CNN/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN INTERNATIONAL
 https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/80494598-902e-4653-a44d-4bb96cf523c2/1.m3u8
 
@@ -674,6 +680,9 @@ https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC|Ροή 2
 http://89.105.221.127/CNBC/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC|Ροή 3
+http://41.223.30.230/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/960px-MSNBC_2015-2021_logo.svg.png" group-title="NEWS",MSNBC
 http://89.105.221.127/MSNBC/index.m3u8?token=test
